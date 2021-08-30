@@ -5,5 +5,5 @@
  <a href="https://www.instagram.com/clarkhallden/"><img src="https://img.shields.io/badge/Instagram%20-6306c7.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <p>
 
-![Github Stat's](https://github-readme-stats.vercel.app/api?username=ClarkHallden&show_icons=true&hide_title=true&theme=midnight-ac2c1c&icon_color)
+![Github Stat's](https://github-readme-stats.vercel.app/api?username=ClarkHallden&show_icons=true&hide_title=true&theme=midnight-pruple&icon_color)
 

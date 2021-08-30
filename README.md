@@ -1,6 +1,6 @@
 # ClarkHallden
 <p>
- <a href="https://discord.gg/yNfdmGxbB4" target"blank_"><img src="https://img.shields.io/badge/Discord%20-6306c7.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.gg/yNfdmGxbB4" target"blank_"><img src="https://img.shields.io/badge/Discord%20-6306c7.svg?&style=for-the-badge&logo=discord&logoColor=ac2c1c"></a>
   <a href="https://open.spotify.com/user/2xykzwf9i6b206kd6offsqwxd?si=bf52fac14652404a" target"blank_"><img src="https://img.shields.io/badge/spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/clarkhallden/"><img src="https://img.shields.io/badge/Instagram%20-6306c7.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <p>
